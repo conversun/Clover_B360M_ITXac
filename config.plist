@@ -71,7 +71,7 @@
 					<key>Comment</key>
 					<string>change EHC1 to EH01</string>
 					<key>Disabled</key>
-					<true/>
+					<false/>
 					<key>Find</key>
 					<data>
 					RUhDMQ==
@@ -85,7 +85,7 @@
 					<key>Comment</key>
 					<string>change EHC2 to EH02</string>
 					<key>Disabled</key>
-					<true/>
+					<false/>
 					<key>Find</key>
 					<data>
 					RUhDMg==
@@ -99,7 +99,7 @@
 					<key>Comment</key>
 					<string>change XHCI to XHC</string>
 					<key>Disabled</key>
-					<true/>
+					<false/>
 					<key>Find</key>
 					<data>
 					WEhDSQ==
@@ -187,11 +187,15 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>
-				AwCSPg==
+				AACSPg==
 				</data>
 				<key>device-id</key>
 				<data>
 				kj4AAA==
+				</data>
+				<key>enable-hdmi20</key>
+				<data>
+				AQAAAA==
 				</data>
 			</dict>
 		</dict>
@@ -285,7 +289,7 @@
 				<key>Comment</key>
 				<string>disable port limit in XHCI kext (credit PMHeart)</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				g/sPD4MDBQAA
@@ -317,31 +321,31 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>09/28/2018</string>
+		<string>09/17/2018</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>IM183.88Z.F000.B00.1809280842</string>
+		<string>MM81.88Z.F000.B00.1809171422</string>
 		<key>Board-ID</key>
-		<string>Mac-77F17D7DA9285301</string>
+		<string>Mac-7BA5B2DFE22DDD8C</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C027306004NJ0DX8C</string>
+		<string>C078102004NFB</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
 		<string>1.0</string>
 		<key>ChassisAssetTag</key>
-		<string>iMac-Aluminum</string>
+		<string>Mini-Aluminum</string>
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>166.0.0.0.0</string>
+		<string>220.207.27.0.0</string>
 		<key>Family</key>
-		<string>iMac</string>
+		<string>Mac mini</string>
 		<key>FirmwareFeatures</key>
 		<string>0xFC0FE137</string>
 		<key>FirmwareFeaturesMask</key>
@@ -353,20 +357,20 @@
 		<key>Mobile</key>
 		<false/>
 		<key>PlatformFeature</key>
-		<string>0x00</string>
+		<string>0x02</string>
 		<key>ProductName</key>
-		<string>iMac18,2</string>
+		<string>Macmini8,1</string>
 		<key>SerialNumber</key>
-		<string>C02V4GZ8J1G5</string>
+		<string>C07WD0DXJYVX</string>
 		<key>SmUUID</key>
-		<string>88E9F6EA-BF1D-5B8E-AB77-6724CF7D8981</string>
+		<string>B072BDE7-5152-5EC0-9241-A6D0F603D908</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>CustomUUID</key>
-		<string>88E9F6EA-BF1D-5B8E-AB77-6724CF7D8981</string>
+		<string>B072BDE7-5152-5EC0-9241-A6D0F603D908</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 		<key>InjectSystemID</key>
