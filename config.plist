@@ -259,7 +259,7 @@
 		<string>0x67</string>
 		<key>ROM</key>
 		<data>
-		cIXCgVq5
+		cIXCsW9L
 		</data>
 	</dict>
 	<key>SMBIOS</key>
@@ -275,7 +275,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02919306CDKGQG1F</string>
+		<string>C02915207CDKGQGUE</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -305,16 +305,16 @@
 		<key>ProductName</key>
 		<string>iMac19,2</string>
 		<key>SerialNumber</key>
-		<string>C02YPPYSJWDW</string>
+		<string>C02YK0C1JWDW</string>
 		<key>SmUUID</key>
-		<string>26AA97C1-66F5-4D4A-8FF7-FD75E4408838</string>
+		<string>91590254-3CF0-4DF4-821C-A675FA7C513A</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>CustomUUID</key>
-		<string>88E9F6EA-BF1D-5B8E-AB77-6724CF7D8981</string>
+		<string>1C71D089-E2E0-54E3-A8B0-2BFCE1286C96</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 		<key>InjectSystemID</key>
