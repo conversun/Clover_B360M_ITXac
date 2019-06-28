@@ -46,7 +46,7 @@
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
-		<string>LastBootedVolume</string>
+		<string>Catalina</string>
 		<key>HibernationFixup</key>
 		<false/>
 		<key>Legacy</key>
