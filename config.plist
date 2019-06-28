@@ -51,6 +51,8 @@
 		<false/>
 		<key>Legacy</key>
 		<string>PBR</string>
+		<key>NeverDoRecovery</key>
+		<false/>
 		<key>NoEarlyProgress</key>
 		<true/>
 		<key>Secure</key>
@@ -199,6 +201,7 @@
 			<string>\EFI\BOOT\BOOTX64.EFI</string>
 			<string>Windows</string>
 			<string>Preboot</string>
+			<string>Recovery</string>
 		</array>
 		<key>Language</key>
 		<string>zh_CN:0</string>
