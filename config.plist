@@ -189,13 +189,13 @@
 		<key>USB</key>
 		<dict>
 			<key>AddClockID</key>
-			<false/>
+			<true/>
 			<key>FixOwnership</key>
-			<false/>
+			<true/>
 			<key>HighCurrent</key>
-			<false/>
+			<true/>
 			<key>Inject</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>UseIntelHDMI</key>
 		<false/>
@@ -268,7 +268,7 @@
 		<key>KernelLapic</key>
 		<false/>
 		<key>KernelPm</key>
-		<false/>
+		<true/>
 		<key>KernelXCPM</key>
 		<false/>
 	</dict>
