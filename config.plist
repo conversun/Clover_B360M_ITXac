@@ -16,6 +16,8 @@
 				<false/>
 				<key>FixDarwin</key>
 				<false/>
+				<key>FixDisplay</key>
+				<false/>
 				<key>FixHDA</key>
 				<false/>
 				<key>FixShutdown</key>
@@ -51,6 +53,8 @@
 		<false/>
 		<key>DefaultVolume</key>
 		<string>Catalina</string>
+		<key>Fast</key>
+		<true/>
 		<key>HibernationFixup</key>
 		<false/>
 		<key>Legacy</key>
@@ -63,8 +67,6 @@
 		<false/>
 		<key>StrictHibernate</key>
 		<false/>
-		<key>Timeout</key>
-		<integer>1</integer>
 		<key>XMPDetection</key>
 		<false/>
 	</dict>
