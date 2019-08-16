@@ -47,14 +47,10 @@
 	</dict>
 	<key>Boot</key>
 	<dict>
-		<key>Arguments</key>
-		<string>-lilubetaall</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
 		<string>Catalina</string>
-		<key>Fast</key>
-		<true/>
 		<key>HibernationFixup</key>
 		<false/>
 		<key>Legacy</key>
@@ -67,6 +63,8 @@
 		<false/>
 		<key>StrictHibernate</key>
 		<false/>
+		<key>Timeout</key>
+		<integer>2</integer>
 		<key>XMPDetection</key>
 		<false/>
 	</dict>
@@ -226,12 +224,10 @@
 		<dict>
 			<key>Entries</key>
 			<true/>
-			<key>Legacy</key>
-			<false/>
 			<key>Linux</key>
 			<false/>
 			<key>Tool</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>ScreenResolution</key>
 		<string>1920x1080</string>
