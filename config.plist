@@ -51,6 +51,8 @@
 		<false/>
 		<key>DefaultVolume</key>
 		<string>Catalina</string>
+		<key>Fast</key>
+		<true/>
 		<key>HibernationFixup</key>
 		<false/>
 		<key>Legacy</key>
@@ -63,8 +65,6 @@
 		<false/>
 		<key>StrictHibernate</key>
 		<false/>
-		<key>Timeout</key>
-		<integer>2</integer>
 		<key>XMPDetection</key>
 		<false/>
 	</dict>
@@ -187,13 +187,13 @@
 		<key>USB</key>
 		<dict>
 			<key>AddClockID</key>
-			<true/>
+			<false/>
 			<key>FixOwnership</key>
-			<true/>
+			<false/>
 			<key>HighCurrent</key>
-			<true/>
+			<false/>
 			<key>Inject</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>UseIntelHDMI</key>
 		<false/>
