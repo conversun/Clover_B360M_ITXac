@@ -7,7 +7,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleGetInfoString</key>
-	<string>111.1.16, Copyright 2008-2016 Apple Inc. All rights reserved.</string>
+	<string>111.2.5, Copyright 2008-2016 Apple Inc. All rights reserved.</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.apple.driver.AGPMInjector</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -17,11 +17,11 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.7.3-AGPMInjector</string>
+	<string>2.7.9-AGPMInjector</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>111.1.16</string>
+	<string>111.2.5</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>AGPM</key>
@@ -38,7 +38,7 @@
 			<dict>
 				<key>iMacPro1,1</key>
 				<dict>
-					<key>GFX0</key>
+					<key>Vendor1002Device67ff</key>
 					<dict>
 						<key>AGDCEnabled</key>
 						<integer>1</integer>
