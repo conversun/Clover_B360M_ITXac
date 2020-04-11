@@ -270,7 +270,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>F5K941130J9K3F7A8</string>
+		<string></string>
 		<key>BoardType</key>
 		<integer>11</integer>
 		<key>BoardVersion</key>
@@ -300,16 +300,16 @@
 		<key>ProductName</key>
 		<string>MacPro7,1</string>
 		<key>SerialNumber</key>
-		<string>F5KZJ9ZGP7QM</string>
+		<string></string>
 		<key>SmUUID</key>
-		<string>A0FFD838-E86D-42B9-89D6-E2C73682AD47</string>
+		<string></string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>CustomUUID</key>
-		<string>A0FFD838-E86D-42B9-89D6-E2C73682AD47</string>
+		<string></string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 		<key>InjectSystemID</key>
